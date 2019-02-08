@@ -1,0 +1,2 @@
+android:windowSoftInputMode="adjustResize"> -->original
+<activity android:name=".MainActivity" android:windowSoftInputMode="adjustPan"> --> melhor solução 
